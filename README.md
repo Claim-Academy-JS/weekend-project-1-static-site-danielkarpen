@@ -9,7 +9,9 @@
 
 ## Overview
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![Weekend Project Desktop Preview](assets\images\weekendprojectpreviewdesk.png "Desktop Preview")
+![Weekend Project Iphone Preview](assets\images\weekendprojectpreviewiphone.png "Iphone Preview")
+![Weekend Project Iphone Preview 2](assets\images\weekendprojectpreviewiphone2.png "Iphone Preview 2")
 
 - Where can I see your demo?
 - What was your experience?
