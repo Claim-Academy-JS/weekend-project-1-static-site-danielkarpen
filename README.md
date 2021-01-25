@@ -9,17 +9,17 @@
 
 ## Overview
 
-![Weekend Project Desktop Preview](assets\images\weekendprojectpreviewdesk.png "Desktop Preview")
-![Weekend Project Iphone Preview](assets\images\weekendprojectpreviewiphone.png "Iphone Preview")
-![Weekend Project Iphone Preview 2](assets\images\weekendprojectpreviewiphone2.png "Iphone Preview 2")
+![Weekend Project Desktop Preview](assets/images/weekendprojectpreviewdesk.png "Desktop Preview")
+![Weekend Project Iphone Preview](assets/images/weekendprojectpreviewiphone.png "Iphone Preview")
+![Weekend Project Iphone Preview 2](assets/images/weekendprojectpreviewiphone2.png "Iphone Preview 2")
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Demo link
+  https://dankarpenweekendproject.netlify.app/
+- I had fun building out this site and reviewing my HTML/CSS knowledge.
+- I think this site looks better than any of my previous work. I will need to get the hang of flex-box a little more as well as getting images to display correctly in background.
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- E-mail <danielkarpen97@gmail.com>
+- GitHub [@danielkarpen](https://github.com/danielkarpen)
+- LinkedIn [@danielkarpen](https://linkedin.com/in/danielkarpen/)
