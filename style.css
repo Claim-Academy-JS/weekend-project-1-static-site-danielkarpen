@@ -62,7 +62,7 @@ section {
     no-repeat center center fixed;
 
   /* Cover the entire background   */
-  background-size: cover;
+  background-size: contain;
   display: flex;
   flex-direction: column;
   height: 100vh;
